@@ -1,5 +1,6 @@
+### Репозиторий содержит портфолио проектов, выполненных в рамках прохождения факультета "Искусственный интеллект" в <a href="https://practicum.yandex.ru/data-scientist
 <p align=center>
-#### Репозиторий содержит портфолио проектов, выполненных в рамках прохождения факультета "Искусственный интеллект" в <a href="https://practicum.yandex.ru/data-scientist/">GeekBrains</a><br>
+/">GeekBrains</a><br>
 </p>
 
 <table>
